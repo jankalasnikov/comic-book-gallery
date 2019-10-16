@@ -56,7 +56,7 @@ namespace ComicBookGallery.Data
                         new Artist() { Name = "Marcos Martin", Role = "Pencils" },
                         new Artist() { Name = "Marcos Martin", Role = "Inks" },
                         new Artist() { Name = "Muntsa Vicente", Role = "Colors" },
-                        new Artist() { Name = "Joe Caramagna", Role = "Letters" }
+                        new Artist() { Name = "Joe Caramagna", Role = "Letterss" }
                     },
                     Favorite = false
                 },
